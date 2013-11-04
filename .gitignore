@@ -1,0 +1,19 @@
+#java specific
+*.class
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+/.idea
+
+# SBT target
+/common/target/
+/desktop/target/
+/android/target/
+/ios
+/out
+/project/target/
+/project/project/target/

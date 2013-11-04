@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="scala" name="Scala">
+      <configuration>
+        <option name="compilerLibraryLevel" value="Project" />
+        <option name="compilerLibraryName" value="scala-compiler" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/scala" isTestSource="false" packagePrefix="my.game.pkg" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="gdx">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/libgdx/gdx.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="scala-library" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library name="gdx-tools">
+        <CLASSES>
+          <root url="file://$USER_HOME$/libgdx/extensions/gdx-tools" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/libgdx/extensions/gdx-tools" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

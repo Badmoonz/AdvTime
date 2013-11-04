@@ -1,0 +1,61 @@
+
+textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+block
+  rotate: false
+  xy: 412, 11
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+finn-fall-01
+  rotate: false
+  xy: 64, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+finn-idle
+  rotate: false
+  xy: 122, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+finn-jump-01
+  rotate: false
+  xy: 180, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+finn-run-01
+  rotate: false
+  xy: 2, 2
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+finn-run-02
+  rotate: false
+  xy: 238, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+finn-run-03
+  rotate: false
+  xy: 296, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+finn-run-04
+  rotate: false
+  xy: 354, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
